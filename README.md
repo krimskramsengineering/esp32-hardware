@@ -1,5 +1,8 @@
 # esp32-hardware
 hardware-related stuff for the esp32.
 kicad components/footprints libraries for:
--ESP-A1S
--TYPE-C-31-M-12 (LCSC)
+1. ESP-A1S
+2. TYPE-C-31-M-12 (LCSC)
+
+kicad schematics for:
+1. usb-to-uart-bridge (esp32, CP2104)
