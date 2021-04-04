@@ -2,7 +2,7 @@
 hardware-related stuff for the esp32.
 
 kicad components/footprints libraries for:
-1. ESP-A1S
+1. ESP32-A1S
 2. TYPE-C-31-M-12 (LCSC)
 
 kicad schematics for:
