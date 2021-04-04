@@ -5,4 +5,4 @@ kicad components/footprints libraries for:
 2. TYPE-C-31-M-12 (LCSC)
 
 kicad schematics for:
-1. usb-to-uart-bridge (esp32, CP2104)
+1. usb-to-uart-bridge (esp32, CP2102)
